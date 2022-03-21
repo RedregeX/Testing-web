@@ -1,0 +1,28 @@
+button{
+    background-color:rgb(75, 28, 151) ;
+    transition-timing-function: ease;
+    transition-duration: 0.5s;
+    width: 100px;
+    height: 50px;
+    border: none;
+    color: white;
+    border-radius: 10%;
+    margin-right: 20px;
+}
+button:hover{
+    background-color:blueviolet;
+}
+input{
+    margin-right: 20px;
+    width: 150px;
+    height: 25px;
+    outline: none;
+    background-color: rgb(135, 6, 255);
+    border: none;
+    color: white;
+    transition-timing-function: ease;
+    transition-duration: 1s;
+}
+input:hover{
+    background-color: rgb(49, 0, 71);
+}
