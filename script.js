@@ -1,5 +1,6 @@
 let name="kerqe"
 let surname="urbyk"
+let test="reak"
 // alert ("hello "+name+" "+surname);
 console.log(document.querySelector(".a").value)
 document.querySelector(".c").onclick=function(){
